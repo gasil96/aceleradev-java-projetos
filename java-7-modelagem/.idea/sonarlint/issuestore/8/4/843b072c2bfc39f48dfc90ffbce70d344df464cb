@@ -1,0 +1,12 @@
+
+d
+java:S3655"GCall "carroComMotoristaMenor55.isPresent()" before accessing the value.(ά΅Έ•8ΉΌν―.
+C
+java:S1170"!Make this final field static too.(’ιήϊÿÿÿÿ8——λ―.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(³Άθƒώÿÿÿÿ8μλ¥λ―.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(¨ϋέ΄8ήµ¨μ―.
+Q
+java:S1068"/Remove this unused "LIMTE_VAGAS" private field.(’ιήϊÿÿÿÿ8‚·λ―.
+c
+java:S1126("AReplace this if-then-else statement by a single return statement.(δΫΫπόÿÿÿÿ8ΧÿΪμ―.
+w	java:S116"VRename this field "LIMTE_VAGAS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ιήϊÿÿÿÿ8‚·λ―.

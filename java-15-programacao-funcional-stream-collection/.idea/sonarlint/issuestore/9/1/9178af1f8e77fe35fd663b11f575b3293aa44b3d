@@ -1,0 +1,17 @@
+
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ä›’8äÀìõ¶.
+€
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "productsMap".(¾…’‹8˜½ƒó¶.
+W
+java:S3655*":Call "productFind.isPresent()" before accessing the value.(ä›’8äÀìõ¶.
+G
+java:S5411-"*Use the primitive boolean expression here.(‡ÑÕî8€Çâó¶.
+e
+java:S2583+"CChange this condition so that it does not always evaluate to "true"(²ÿ×‘øÿÿÿÿ8äÀìõ¶.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(Ÿí¿Ãûÿÿÿÿ8¢®éõ¶.
+N
+java:S1612",Replace this lambda with a method reference.(ĞÅÊÿşÿÿÿÿ8’çòó¶.
+N
+java:S1612",Replace this lambda with a method reference.(ùÒ†¯ûÿÿÿÿ8œÃ¡ô¶.
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8áêò¶.

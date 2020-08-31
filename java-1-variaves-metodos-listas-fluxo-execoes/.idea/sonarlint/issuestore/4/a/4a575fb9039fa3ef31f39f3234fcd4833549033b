@@ -1,0 +1,68 @@
+
+V
+java:S4973\"9Use the "equals" method if value comparison was intended.(´Ñ¡Š8½ÆÍ£®.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôØÕ¬8­¦ôœ®.
+[
+java:S4973i"9Use the "equals" method if value comparison was intended.(İş”¢øÿÿÿÿ8½ÆÍ£®.
+\
+java:S4973†"9Use the "equals" method if value comparison was intended.(·ûúûÿÿÿÿ8®¬Š¤®.
+V	java:S106¸"9Replace this use of System.out or System.err by a logger.(ËÓÎ8¥³£®.
+|
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(±¹•¬úÿÿÿÿ8¸³–£®.
+X	java:S125"<This block of commented-out lines of code should be removed.(¨®–Ş8–™òœ®.
+l
+java:S1192Ë"IDefine a constant instead of duplicating this literal "Jogador2" 3 times.(Íû“Œûÿÿÿÿ8¸³–£®.
+V
+java:S4973R"9Use the "equals" method if value comparison was intended.(Ùó¸ğ8½ÆÍ£®.
+N
+java:S1612t",Replace this lambda with a method reference.(ŠƒÑ–úÿÿÿÿ8½ÆÍ£®.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓòÔŞúÿÿÿÿ8¿”£®.
+[
+java:S4973w"9Use the "equals" method if value comparison was intended.(¤Ë•¯ıÿÿÿÿ8½ÆÍ£®.
+V
+java:S4973G"9Use the "equals" method if value comparison was intended.(‘—¹ä8½ÆÍ£®.
+\
+java:S4973Ÿ"9Use the "equals" method if value comparison was intended.(¦Åçÿÿÿÿÿ8½ÆÍ£®.
+V	java:S106¼"9Replace this use of System.out or System.err by a logger.(ÕÆí±8øŞÊ£®.
+V	java:S106¿"9Replace this use of System.out or System.err by a logger.(ùšÉ´8‹™¾£®.
+V
+java:S4973s"9Use the "equals" method if value comparison was intended.(ËĞä´8½ÆÍ£®.
+d
+java:S1192Ç"GDefine a constant instead of duplicating this literal "branco" 4 times.(ÀÏ…[8¸³–£®.
+[
+java:S49738"9Use the "equals" method if value comparison was intended.(áÎèƒøÿÿÿÿ8½ÆÍ£®.
+O
+java:S1612‡",Replace this lambda with a method reference.(­öºŒşÿÿÿÿ8®¬Š¤®.
+D
+java:S1125I"(Remove the literal "true" boolean value.(¸¡‡^8†®·¡®.
+O
+java:S1612¡",Replace this lambda with a method reference.(£ß¿üÿÿÿÿ8½ÆÍ£®.
+\
+java:S4973¬"9Use the "equals" method if value comparison was intended.(ÃĞô£ûÿÿÿÿ8½ÆÍ£®.
+P
+java:S1135´"2Complete the task associated to this TODO comment.(¥ıèŞ8—Ü£®.
+P
+java:S1135Ã"2Complete the task associated to this TODO comment.(Äííö8¸³–£®.
+[	java:S106ß"9Replace this use of System.out or System.err by a logger.(›à»íÿÿÿÿÿ8ÌÅå£®.
+Z
+java:S3655¨"7Call "Optional#isPresent()" before accessing the value.(«æ¿úùÿÿÿÿ8½ÆÍ£®.
+{
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊÛÁ•üÿÿÿÿ8†®·¡®.
+T
+java:S3655J"7Call "Optional#isPresent()" before accessing the value.(ÆäêÙ8½ÆÍ£®.
+W	java:S125"<This block of commented-out lines of code should be removed.(âÅ‹!8–™òœ®.
+w
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(“ë´Ù8†®·¡®.
+Y
+java:S3655}"7Call "Optional#isPresent()" before accessing the value.( ë—Œûÿÿÿÿ8½ÆÍ£®.
+\
+java:S4973£"9Use the "equals" method if value comparison was intended.(ªÂùùÿÿÿÿ8½ÆÍ£®.
+U
+java:S3655‘"7Call "Optional#isPresent()" before accessing the value.(Ëçèº8™¢¢¤®.
+[
+java:S49736"9Use the "equals" method if value comparison was intended.(ÃĞô£ûÿÿÿÿ8½ÆÍ£®.
+V	java:S106‰"9Replace this use of System.out or System.err by a logger.(ñºšÀ8ò¼€¤®.
+V
+java:S4973v"9Use the "equals" method if value comparison was intended.(Òûñ8½ÆÍ£®.
